@@ -9,6 +9,6 @@ Inspriation for your personal blog
 * [Justin Jackson](http://justinjackson.ca/)
 * [Nikita Prokopov](https://tonsky.me/)
 * [Jeff Huang](https://jeffhuang.com/designed_to_last/)
-* [julian.digital/](https://julian.digital/)
+* [julian.digital](https://julian.digital/)
 * [Peter Magnusson](https://petersmagnusson.org/)
 * [Jason Lengstorf](https://www.jason.af/)
