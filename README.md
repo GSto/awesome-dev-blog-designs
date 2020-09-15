@@ -11,3 +11,4 @@ Inspriation for your personal blog
 * [Jeff Huang](https://jeffhuang.com/designed_to_last/)
 * [julian.digital/](https://julian.digital/)
 * [Peter Magnusson](https://petersmagnusson.org/)
+* [Jason Lengstorf](https://www.jason.af/)
